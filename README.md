@@ -4,5 +4,5 @@ I am a recent graduate of **Sharif University of Technology** with a B.Sc. in **
 
 **🔭 Focus Areas:** Causal Inference, Econometrics, Applied ML & System Dynamics.
 
-**💻 Tech Stack:** Python (Pandas, Scikit-Learn, XGBoost, PyTorch), SQL, Vensim, Power BI, LaTeX.
+**💻 Tech Stack:** Python (Pandas, Scikit-Learn, XGBoost, PyTorch), Vensim, Power BI, LaTeX.
 
